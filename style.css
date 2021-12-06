@@ -296,24 +296,28 @@ footer .TensorFlow {
 
 #sumaho-area-6 .Q {
   color: #35a963;
-  padding-left: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
   padding-top: 5%;
   padding-bottom: 1%;
 }
 
 #sumaho-area-6 .A {
   color: red;
-  padding-left: 15%;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 #sumaho-area-6 .Q-text {
-  padding-left: 18%;
+  padding-left: 13%;
+  padding-right: 10%;
   padding-top: 5%;
   padding-bottom: 1%;
 }
 
 #sumaho-area-6 .A-text {
-  padding-left: 18%;
+  padding-left: 13%;
+  padding-right: 10%;
   font-size: smaller;
 }
 
