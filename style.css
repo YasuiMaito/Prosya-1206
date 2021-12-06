@@ -363,21 +363,14 @@ footer .TensorFlow {
     font-size: x-small;
   }
 
-  #sumaho-area-6 .sumaho-text-divider-area-6,
   #sumaho-area-3 .sumaho-text-divider-area-3,
-  #sumaho-area-5 .sumaho-text-divider-area-5 {
+  #sumaho-area-4 .sumaho-text-divider-area-4,
+  #sumaho-area-5 .sumaho-text-divider-area-5,
+  #sumaho-area-6 .sumaho-text-divider-area-6 {
     position: relative;
     display: inline-block;
     padding-right: 68vw;
     font-weight: bold;
-  }
-
-  #sumaho-area-4 .sumaho-text-divider-area-4 {
-    position: relative;
-    display: inline-block;
-    padding-right: 68vw;
-    font-weight: bold;
-    font-size: 83.5%;
   }
 
   #sumaho-area-3 .sumaho-text-divider-area-3:after,
